@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "shelljs": "^0.7.4",
-    "sqlite3": "3.x"
+    "sqlite3": "git+https://github.com/fritx/node-sqlite3.git#openssl-root"
   }
 }
